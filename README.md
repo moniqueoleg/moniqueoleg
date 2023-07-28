@@ -8,7 +8,7 @@ Full Stack Web Developer | GIS Engineer
 教育
 
 
-* 🌍  I'm based in Toronto,Canada
+* 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at <a href="https://rmonet.github.io" target="_blank">Portfolio</a>
 * ✉️  You can contact me at [reshetnyakoleg24@gmail.com
 ](mailto:everyone20171203@outlook.com)
