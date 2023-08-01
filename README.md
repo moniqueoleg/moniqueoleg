@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer | GIS Engineer
 ------------------------
 
-我从 2012 年开始 Web 开发工作，期间我在不同的环境中工作，从大型咨询公司到初创公司。 我是一个喜欢解决问题的自我激励和自学成才的专业人士。 我通过将创造性思维、用户共鸣和对开发经验的热情与技术知识相结合，创造了一个美妙的数字环境。 我的技能包括编程语言和工具，如 ReactJS、VueJS、Typescript、CocosCreator、AngularJS、MySQL、MongoDB、Apache 服务器配置、SASS、Bootstrap、Javascript、jQuery、Solidity 和 Rust 等。
-教育
+I have been working with web development since 2012, the period during which I have worked in different environments, from big consultancy companies to startups. I am a self-motivated and self-taught professional who likes to solve problems. I create a wonderful digital environment by combining creative thinking, user resonance, and passion for development experience with technical knowledge. My repertoire includes programming languages and tools like ReactJS, NextJS, Laravel, Wordpress, hybrid and native mobile dev, MySQL, MongoDB, Apache server configuration, SASS, Bootstrap, Javascript, jQuery etc.
 
 
 * 🌍  I'm based in Ukraine
